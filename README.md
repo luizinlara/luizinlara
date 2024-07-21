@@ -4,15 +4,14 @@
 
 Aqui está um pouco sobre o que estou fazendo atualmente:
 
-- 🔭 Crio aplicações para Back-End, Front-End e script para automações.
+- 🔭 Crio aplicações .
 - 🌱 Estou aprendendo mais sobre cloud computing, Devops, Cyber Security e inteligência artificial.
-- 👯 Estou procurando colaborar em projetos de código aberto.
-- 💬 Pergunte-me sobre PHP, JavaScript, MySql, Node.js e Web Scraping.
-- 📫 Como entrar em contato comigo: [Enviar Email](mailto:luis@gardentec.com.br)
+- 📫 Contato: [Enviar Email](mailto:luis@gardentec.com.br)
 
 ## 🛠️ Projetos Públicos
  - [Automação de porta comercial de enrolar](https://github.com/luizinlara/porta-enrolar)
  - [Curso backend SENAC - Apresentação Casacor](https://github.com/luizinlara/casacor)
+ - [Conversor Extrato Bancário PDF to XLS](http://conversor-extrato-bancario.gardentec.com.br)
 
 ## 📫 Contatos:
 <!-- Links atualizados para redes sociais poderiam ser descomentados abaixo conforme disponíveis. -->
